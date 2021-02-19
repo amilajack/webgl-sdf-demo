@@ -1,0 +1,14 @@
+{
+  "name": "webgl-sdf-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:amilajack/webgl-sdf-demo.git",
+  "author": "Amila Welihinda <amilajack@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server ."
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
